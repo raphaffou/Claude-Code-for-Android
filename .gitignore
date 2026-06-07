@@ -1,0 +1,27 @@
+# Secrets
+.env
+*.credentials.json
+.credentials.json
+keystore.jks
+keystore.properties
+
+# Claude Code / sessions
+.claude/
+.sessions.json
+
+# Logs
+*.log
+
+# Android / Gradle build
+.gradle/
+build/
+/app/build/
+captures/
+local.properties
+*.iml
+*.aab
+*.apk
+
+# OS / éditeurs
+.DS_Store
+.idea/

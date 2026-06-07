@@ -1,0 +1,4 @@
+[K
+[KWarning: proot-distro should not be executed as root user. Do not send bug reports about messed up Termux environment, lost data and bricked devices.
+[K
+[KError: proot-distro should not be executed under PRoot.

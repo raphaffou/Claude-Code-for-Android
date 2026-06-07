@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Surfaces -->
+    <color name="color_background">#121212</color>
+    <color name="color_surface">#1E1E1E</color>
+    <color name="color_surface_variant">#2C2C2C</color>
+
+    <!-- Accent (toolbar, send button) -->
+    <color name="color_primary">#FF6E40</color>
+    <color name="color_primary_dark">#E64A19</color>
+
+    <!-- Bulles -->
+    <color name="bubble_sent">#1565C0</color>
+    <color name="bubble_received">#2C2C2C</color>
+
+    <!-- Texte -->
+    <color name="text_primary">#EFEFEF</color>
+    <color name="text_secondary">#9E9E9E</color>
+
+    <!-- Compat (utilisé dans les drawables existants) -->
+    <color name="activated_item_foreground">#2C2C2C</color>
+    <color name="divider_grey">#424242</color>
+</resources>

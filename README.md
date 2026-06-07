@@ -193,3 +193,18 @@ APK généré dans `app/build/outputs/apk/core/debug/`.
 
 **Aucune réponse de Claude malgré le serveur vert**  
 → Vérifier que Claude CLI est bien connecté : `proot-distro login ubuntu` puis `claude --version`.
+
+---
+
+## Crédits
+
+L'application Android (`claude-android/`) est dérivée de **[Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger)** de **SimpleMobileTools** (Tibor Kaputa), publié sous licence GPL-3.0. L'interface SMS d'origine a été remplacée par un client de chat branché sur Claude Code, mais une grande partie de la base (thème, structure du projet, composants UI) provient de ce projet. Merci à ses auteurs et contributeurs.
+
+- Projet d'origine : <https://github.com/SimpleMobileTools/Simple-SMS-Messenger>
+- Copyright © SimpleMobileTools
+
+## Licence
+
+Ce projet est une œuvre dérivée de code sous **GNU General Public License v3.0** ; il est donc lui aussi distribué sous **GPL-3.0**. Voir le fichier [`LICENSE`](LICENSE).
+
+Cela implique notamment que toute redistribution (sources ou binaire/APK) doit rester sous GPL-3.0 et donner accès au code source correspondant.
